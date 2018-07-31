@@ -1,5 +1,5 @@
 site:
   title: Hello from Spring Cloud Config Server
   header:
-    background: "#008774"
-    #    background: "#06365D"
+    #    background: "#008774"
+    background: "#06365D"
