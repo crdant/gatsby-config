@@ -1,4 +1,5 @@
 site:
   title: Gatsby Spring Cloud Config Demonstration
   header:
-    background: "#008774"
+    background: "#03645D"
+#    background: "#008774"
