@@ -2,6 +2,6 @@ site:
   title: Backyard Living
   header:
     background: "#008774"
-  services:
-    product:
-      url: https://core-cf-webapi-comedic-jaguar.cfapps.io/api/products
+services:
+  product:
+    url: https://core-cf-webapi-comedic-jaguar.cfapps.io/api/products
