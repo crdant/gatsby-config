@@ -4,4 +4,4 @@ site:
     background: "#008774"
 services:
   product:
-    url: https://core-cf-webapi-comedic-jaguar.cfapps.io/api/products
+    url: https://core-cf-webapi-comedic-eland.homelab.fynesy.com/api/products
